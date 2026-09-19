@@ -1,0 +1,10 @@
+streamlit
+google-genai
+gtts
+pydub
+proglog
+requests
+moviepy
+pillow
+numpy
+elevenlabs

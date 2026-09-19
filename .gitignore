@@ -1,0 +1,14 @@
+# File sensitif - jangan diunggah ke GitHub
+.streamlit/secrets.toml
+app_v12.py
+
+# File temporary
+temp_*.mp3
+temp_*.jpg
+temp_*.png
+temp_*.mp4
+auto_*.jpg
+auto_*.mp4
+hasil_preview_*.mp4
+__pycache__/
+*.pyc
