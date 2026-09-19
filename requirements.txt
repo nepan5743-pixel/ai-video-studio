@@ -1,10 +1,10 @@
 streamlit
 google-genai
 gtts
-pydub
+pydub==0.25.1
 proglog
 requests
-moviepy
+moviepy==1.0.3
 pillow
 numpy
 elevenlabs
